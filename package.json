@@ -1,0 +1,22 @@
+{
+  "name": "tcc-drop-down-menu-module",
+  "version": "1.0.0",
+  "description": "a simple drop-down menu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecodingcrab/TCC_Drop-down-Menu.git"
+  },
+  "keywords": [
+    "tcc"
+  ],
+  "author": "The Coding Crab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thecodingcrab/TCC_Drop-down-Menu/issues"
+  },
+  "homepage": "https://github.com/thecodingcrab/TCC_Drop-down-Menu#readme"
+}

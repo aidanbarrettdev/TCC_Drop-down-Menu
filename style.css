@@ -1,0 +1,26 @@
+.menu__select__btn {
+  border: none;
+  height: 24px;
+  width: 100px;
+}
+
+.drop-down__menu {
+  border: 2px solid;
+  border-color: rgb(207, 210, 211);
+  width: 90px;
+  max-height: 100px;
+  transition: all 0.5s;
+  overflow: hidden;
+}
+.drop-down__menu a {
+  display: block;
+  padding: 3px;
+  text-decoration: none;
+}
+.drop-down__menu a:hover {
+  background-color: rgb(232, 227, 227);
+}
+.hide {
+  max-height: 0;
+  opacity: 0%;
+}
